@@ -2,7 +2,7 @@
 
 Une application Android d'apprentissage pour comprendre le fonctionnement des **Broadcast Receivers** (Statiques, Dynamiques et Custom).
 
-
+<img src="demo/demo.gif" width="300" height="600">
 
 ## 🚀 Fonctionnalités
 
